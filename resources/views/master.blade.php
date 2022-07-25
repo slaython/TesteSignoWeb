@@ -87,7 +87,7 @@
                             </div> -->
                             <div class="nk-header-news d-none d-xl-block">
                                 <div class="nk-news-list">
-                                    <a class="nk-news-item" href="#">
+                                    <a class="nk-news-item" href="https://github.com/slaython/TesteSignoWeb" target="_blank">
                                         <div class="nk-news-icon">
                                             <em class="icon ni ni-card-view"></em>
                                         </div>
